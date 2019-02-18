@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="500" height="300" src="images/jetson.png">
+  <img src="images/jetson.png">
 </p>
 
 #### Requirements for Tensorflow 1.3

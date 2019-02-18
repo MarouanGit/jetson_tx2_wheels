@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="images/jetson.png">
+  <img src="images/jetson.png =0.5x">
 </p>
 
 #### Requirements for Tensorflow 1.3
